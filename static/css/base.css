@@ -1,0 +1,21 @@
+body {
+    font-family: "Source Sans Pro",sans-serif;
+    font-size: 18px;
+}
+
+header{
+    border-bottom: 1px solid #999;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 a {
+    color: red;
+    font-size: 3.5rem;
+    text-decoration: none;
+}
+/* .post-entry h2 {
+    color: yellow;
+} */
